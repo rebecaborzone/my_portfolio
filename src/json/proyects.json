@@ -1,0 +1,45 @@
+[
+    {
+    "id": "1",
+    "name": "MINDY PETSHOP",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "tecnology": "HTML CSS JS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+{
+    "id": "2",
+    "link": "https://mytinerary-borzone-front.herokuapp.com/",
+    "name": "MYTINERARY",
+    "tecnology": "REACT APP",
+    "image": "https://i.ibb.co/6yx6MSX/mytineraryscreen.png"
+    },
+{
+    "id": "3",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "name": "MYTI MOBILE",
+    "tecnology": "REACT NATIVE",
+    "image": "https://i.ibb.co/D8270hn/mytimobilescreen.png"
+    },
+{
+    "id": "4",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "name": "AMAZING EVENTS",
+    "tecnology": "HTML CSS JS",
+    "image": "https://i.ibb.co/tKW6jDT/amazingevscreen.png"
+    },
+{
+    "id": "5",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "name": "AESTHETIC",
+    "tecnology": "REACT APP",
+    "image": "https://i.ibb.co/hykCnCj/aestheticscreen.png"
+    },
+{
+    "id": "6",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "name": "AESTHETIC",
+    "tecnology": "MOBILE APP",
+    "image": "https://www.youtube.com/watch?v=kZXUqGhSDxw&ab_channel=NahuelManenti"
+    
+    }
+]

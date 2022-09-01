@@ -1,0 +1,65 @@
+[
+    {
+    "id": "1",
+    "name": "REALIDADES PARALELAS",
+    "link": "https://www.instagram.com/p/CbYELPuAIJh/",
+    "tecnology": "PROXIMAMENTE",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "2",
+    "name": "TUCSI",
+    "link": "https://www.instagram.com/p/CbYELPuAIJh/",
+    "tecnology": "PROXIMAMENTE",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "3",
+    "name": "HOMBRE PAJARO",
+    "link": "https://www.instagram.com/p/Ceez2ELArea/",
+    "tecnology": "STOP MOTION",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "4",
+    "name": "FANTASMITA I",
+    "link": "https://www.instagram.com/p/CbYELPuAIJh/",
+    "tecnology": "MOTION GRAPHICS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "5",
+    "name": "FANTASMITA II",
+    "link": "https://www.instagram.com/p/CbIonQIA58L/",
+    "tecnology": "MOTION GRAPHICS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "6",
+    "name": "ENREDADERAS EP",
+    "link": "https://www.youtube.com/watch?v=BFnmbcZnXqo&ab_channel=AliciaNaffa",
+    "tecnology": "STOP MOTION MOTION GRAPHICS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "7",
+    "name": "NOCHES DE YULE",
+    "link": "https://www.youtube.com/watch?v=qP-rC10UvLE&list=PLEjygdEYXfgrVDW7gQ418PVKPJfNFZ5Zy&index=13&ab_channel=CaroV",
+    "tecnology": "HTML CSS JS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    },
+    {
+    "id": "8",
+    "name": "CARACOL",
+    "link": "https://www.youtube.com/watch?v=tomZmAeOZHA&ab_channel=CoralEnCantos",
+    "tecnology": "STOP MOTION MOTION GRAPHICS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+        },
+    {
+    "id": "9",
+    "name": "ENREDADERAS EP",
+    "link": "https://mindypetshop.vercel.app/index.html",
+    "tecnology": "HTML CSS JS",
+    "image": "https://i.pinimg.com/originals/51/a4/ab/51a4ababdffc0a4d9373bb74b15348a6.jpg"
+    }
+]

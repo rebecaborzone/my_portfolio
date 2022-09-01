@@ -1,0 +1,87 @@
+/* .container-fluid{
+    position: absolute;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+  } */
+  /* ============= Animation background ========= */
+  .background {
+    background-color: #FAF5E4;
+    background-size: cover;
+    background-image: url(https://img.freepik.com/premium-vector/acid-wave-rainbow-line-backgrounds-1970s-1960s-hippie-style-y2k-wallpaper-patterns-retro-vintage-70s-60s-groove-psychedelic-poster-background-collection-vector-design-illustration_509073-730.jpg?w=2000);
+    background-blend-mode: lighten;
+    /* animation: Gradient 15s ease infinite; */
+    z-index: -2;
+    position:absolute;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    padding:0;
+    margin:0px;
+  }
+
+  .cube {
+    margin: 1rem 2rem;
+    position: absolute;
+    transform: rotate(0grad);
+    animation: cube 20s infinite linear;
+  }
+
+  .cube:nth-child(2) {
+    /* animation-delay: 2s; */
+    left: 12vw;
+    top: 65vh;
+  }
+  .cube:nth-child(3) {
+    left: 55vw;
+    top: 30vh;
+  }
+
+  .extraFlower {
+    display: none
+  }
+
+/*   
+  @keyframes Gradient {
+    0% {
+      background-position: 0% 5%;
+    }
+    50% {
+      background-position: 10% 5%;
+    }
+    100% {
+      background-position: 0% 5%;
+    }
+  } */
+
+  @keyframes cube {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+
+@media (max-width: 768px){
+
+  .extraFlower{
+      display: block
+  }
+
+  .cube img {
+    width: 80px;
+}
+
+  .cube:nth-child(2) {
+    /* animation-delay: 2s; */
+    left: 12vw;
+    top: 80vh;
+  }
+
+  .cube:nth-child(3) {
+    left: 80vw;
+    top: 40vh;
+  }
+}

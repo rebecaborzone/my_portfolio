@@ -1,0 +1,25 @@
+.arcoiris {
+    width: 50vw;
+    position: absolute;
+    bottom:0px;
+    left: 0px;
+}
+
+.contactText{
+    width: 100vw;
+    text-align: center;
+    font-size: 15px;
+    color: #125B50
+}
+
+@media (max-width: 768px){
+    .arcoiris{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 425px){
+    .arcoiris{
+        width: 100vw;
+    }
+}
